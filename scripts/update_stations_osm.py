@@ -14,7 +14,7 @@ def main():
   c=e.get("center",{});lat=e.get("lat",c.get("lat"));lon=e.get("lon",c.get("lon"))
   if lat is None or lon is None:continue
   name=t.get("name") or t.get("brand") or t.get("operator") or "Station Total"
-  item={"osm_id":f'{e["type"]}:{e["id"]}',"nom":name,"enseigne":("Total Access" if re.search(r"total\\s*access",text,re.I) else "TotalEnergies"),"adresse":", ".join(filter(None,[t.get("addr:housenumber"),t.get("addr:street"),t.get("addr:postcode"),t.get("addr:city")])),"code_postal":t.get("addr:postcode",""),"commune":t.get("addr:city",""),"latitude":float(lat),"longitude":float(lon),"horaires":t.get("opening_hours",""),"osm_url":f'https://www.openstreetmap.org/{e["type"]}/{e["id"]}'}
+  item={"osm_id":f'{e["type"]}:{e["id"]}',"nom":name,"enseigne":("Total Access" if re.search(r"total\s*access",text,re.I) else "TotalEnergies"),"adresse":", ".join(filter(None,[t.get("addr:housenumber"),t.get("addr:street"),t.get("addr:postcode"),t.get("addr:city")])),"code_postal":t.get("addr:postcode",""),"commune":t.get("addr:city",""),"latitude":float(lat),"longitude":float(lon),"horaires":t.get("opening_hours",""),"osm_url":f'https://www.openstreetmap.org/{e["type"]}/{e["id"]}'}
   items[item["osm_id"]]=item
  if not items:raise RuntimeError("Aucune station Total trouvée : fichier précédent conservé")
  rows=sorted(items.values(),key=lambda x:(x["code_postal"],x["commune"],x["nom"]))
