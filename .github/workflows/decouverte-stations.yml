@@ -1,13 +1,5 @@
 name: Découverte quotidienne des stations Total
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'scripts/update_stations_osm.py'
-      - '.github/workflows/decouverte-stations.yml'
-  schedule:
-    - cron: "15 4 * * *"
   workflow_dispatch:
 permissions:
   contents: write
