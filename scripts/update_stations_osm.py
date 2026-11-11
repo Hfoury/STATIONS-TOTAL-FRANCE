@@ -114,7 +114,7 @@ def main():
             "nom": name,
             "enseigne": (
                 "Total Access"
-                if re.search(r"total\\s*access", label, re.I)
+                if re.search(r"total\s*access", label, re.I)
                 else "TotalEnergies"
             ),
             "adresse": ", ".join(filter(None, [
