@@ -1,5 +1,10 @@
 name: Découverte quotidienne des stations Total
 on:
+  push:
+    paths:
+      - "scripts/update_stations_geofabrik.py"
+      - "requirements.txt"
+      - ".github/workflows/decouverte-stations.yml"
   schedule:
     - cron: "40 4 * * *"
   workflow_dispatch:
