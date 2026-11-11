@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Découverte quotidienne des stations Total"]
+    types: [completed]
+    branches: [main]
 permissions:
   contents: write
 concurrency:
@@ -10,6 +14,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
