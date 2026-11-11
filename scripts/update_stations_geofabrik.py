@@ -52,7 +52,7 @@ class StationHandler(osmium.SimpleHandler):
         self.items[osm_id] = {
             "osm_id": osm_id,
             "nom": name,
-            "enseigne": "Total Access" if re.search(r"total\\s*access", label, re.I) else "TotalEnergies",
+            "enseigne": "Total Access" if re.search(r"total\s*access", label, re.I) else "TotalEnergies",
             "adresse": ", ".join(filter(None, [
                 tags.get("addr:housenumber"), tags.get("addr:street"),
                 tags.get("addr:postcode"), tags.get("addr:city"),
