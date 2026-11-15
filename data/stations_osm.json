@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T16:51:00.911209+00:00",
+  "generated_at": "2026-11-15T08:11:20.583876+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2659,
+  "count": 2660,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -19312,6 +19312,18 @@
       "osm_url": "https://www.openstreetmap.org/node/12780098939"
     },
     {
+      "osm_id": "node:14378238467",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 47.7548285,
+      "longitude": 3.4974249,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/14378238467"
+    },
+    {
       "osm_id": "way:207176743",
       "nom": "TotalEnergies",
       "enseigne": "TotalEnergies",
@@ -20798,6 +20810,18 @@
       "longitude": 2.0881004,
       "horaires": "",
       "osm_url": "https://www.openstreetmap.org/node/14333335752"
+    },
+    {
+      "osm_id": "way:1380425140",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 46.239005320000004,
+      "longitude": 1.49483284,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/way/1380425140"
     },
     {
       "osm_id": "node:1350561566",
@@ -25118,18 +25142,6 @@
       "longitude": -2.5439911,
       "horaires": "",
       "osm_url": "https://www.openstreetmap.org/node/13769563375"
-    },
-    {
-      "osm_id": "way:1380425140",
-      "nom": "TotalEnergies",
-      "enseigne": "TotalEnergies",
-      "adresse": "7, Avenue de la République, 23300, La Souterraine",
-      "code_postal": "23300",
-      "commune": "La Souterraine",
-      "latitude": 46.23900072,
-      "longitude": 1.49484084,
-      "horaires": "",
-      "osm_url": "https://www.openstreetmap.org/way/1380425140"
     },
     {
       "osm_id": "way:68442122",
