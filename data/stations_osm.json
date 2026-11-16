@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:11:20.583876+00:00",
+  "generated_at": "2026-11-16T07:28:38.023360+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
   "count": 2660,
   "items": [
@@ -19330,8 +19330,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 48.18509565714286,
-      "longitude": 3.286049414285714,
+      "latitude": 48.18508550909091,
+      "longitude": 3.286043781818182,
       "horaires": "Mo-Sa 07:30-12:30,13:30-18:30",
       "osm_url": "https://www.openstreetmap.org/way/207176743"
     },
