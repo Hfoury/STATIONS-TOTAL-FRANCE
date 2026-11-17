@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T07:28:38.023360+00:00",
+  "generated_at": "2026-11-17T07:42:40.721624+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2660,
+  "count": 2663,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -4060,18 +4060,6 @@
       "osm_url": "https://www.openstreetmap.org/node/4221746092"
     },
     {
-      "osm_id": "node:4995459741",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 46.184455,
-      "longitude": 2.8024287,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/4995459741"
-    },
-    {
       "osm_id": "node:4995459745",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -5548,18 +5536,6 @@
       "osm_url": "https://www.openstreetmap.org/node/1870398692"
     },
     {
-      "osm_id": "node:2051221321",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 48.1788015,
-      "longitude": 2.2514164,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/2051221321"
-    },
-    {
       "osm_id": "node:2073079364",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -5882,18 +5858,6 @@
       "longitude": 3.6964983,
       "horaires": "Mo-Fr 06:30-20:00; Sa 08:00-13:00; Su off",
       "osm_url": "https://www.openstreetmap.org/node/283281691"
-    },
-    {
-      "osm_id": "node:283282307",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 49.2748969,
-      "longitude": 3.8698692,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/283282307"
     },
     {
       "osm_id": "node:822152726",
@@ -14146,8 +14110,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 44.2886249,
-      "longitude": 2.7147783,
+      "latitude": 44.2886065,
+      "longitude": 2.7147561,
       "horaires": "",
       "osm_url": "https://www.openstreetmap.org/node/871994260"
     },
@@ -16934,18 +16898,6 @@
       "longitude": 2.8747838999999997,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/66303854"
-    },
-    {
-      "osm_id": "node:4688611978",
-      "nom": "Total Contact",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 50.4162902,
-      "longitude": 2.9766628,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/4688611978"
     },
     {
       "osm_id": "way:110719872",
@@ -27148,6 +27100,18 @@
       "osm_url": "https://www.openstreetmap.org/node/6811497475"
     },
     {
+      "osm_id": "node:2051221321",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "Avenue du 11 Novembre 1918, 45300, Pithiviers",
+      "code_postal": "45300",
+      "commune": "Pithiviers",
+      "latitude": 48.1787478,
+      "longitude": 2.2514043,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/2051221321"
+    },
+    {
       "osm_id": "node:25210988",
       "nom": "Relais D'Orléans Saran",
       "enseigne": "TotalEnergies",
@@ -27568,6 +27532,18 @@
       "osm_url": "https://www.openstreetmap.org/node/25214372"
     },
     {
+      "osm_id": "node:283282307",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "51140, Muizon",
+      "code_postal": "51140",
+      "commune": "Muizon",
+      "latitude": 49.2748969,
+      "longitude": 3.8698692,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/283282307"
+    },
+    {
       "osm_id": "node:25210010",
       "nom": "Relais Total Des Sparnaciens",
       "enseigne": "TotalEnergies",
@@ -27698,6 +27674,18 @@
       "longitude": -0.8086914000000001,
       "horaires": "Mo-Sa 07:30-19:30",
       "osm_url": "https://www.openstreetmap.org/way/320197813"
+    },
+    {
+      "osm_id": "node:14383824414",
+      "nom": "Total Contact",
+      "enseigne": "TotalEnergies",
+      "adresse": "40, Rue d'Anjou, 53360, Quelaines-Saint-Gault",
+      "code_postal": "53360",
+      "commune": "Quelaines-Saint-Gault",
+      "latitude": 47.9211093,
+      "longitude": -0.7997367,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/14383824414"
     },
     {
       "osm_id": "node:232881466",
@@ -28276,6 +28264,18 @@
       "osm_url": "https://www.openstreetmap.org/node/14373639918"
     },
     {
+      "osm_id": "node:4688611978",
+      "nom": "Total Contact",
+      "enseigne": "TotalEnergies",
+      "adresse": "1230, Boulevard Albert Schweitzer, 62110, Hénin-Beaumont",
+      "code_postal": "62110",
+      "commune": "Hénin-Beaumont",
+      "latitude": 50.4162784,
+      "longitude": 2.9767026,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/4688611978"
+    },
+    {
       "osm_id": "node:4656354404",
       "nom": "TotalEnergies Access - STATION DES PRINCES",
       "enseigne": "TotalEnergies",
@@ -28406,6 +28406,18 @@
       "longitude": 3.7395568142857143,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/82519685"
+    },
+    {
+      "osm_id": "node:4995459741",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "Avenue du Bourbonnais, 63700, Montaigut-en-Combraille",
+      "code_postal": "63700",
+      "commune": "Montaigut-en-Combraille",
+      "latitude": 46.184455,
+      "longitude": 2.8024287,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/4995459741"
     },
     {
       "osm_id": "way:72702372",
@@ -28646,6 +28658,18 @@
       "longitude": 7.7099077,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/1369779809"
+    },
+    {
+      "osm_id": "node:14383896739",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "Route de Hoerdt, 67170, Geudertheim",
+      "code_postal": "67170",
+      "commune": "Geudertheim",
+      "latitude": 48.7091838,
+      "longitude": 7.7588904,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/14383896739"
     },
     {
       "osm_id": "node:473771211",
@@ -31010,6 +31034,18 @@
       "longitude": 0.25132274,
       "horaires": "",
       "osm_url": "https://www.openstreetmap.org/way/1196532780"
+    },
+    {
+      "osm_id": "node:14383930306",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "480, Route de Limoges, 86550, Mignaloux-Beauvoir",
+      "code_postal": "86550",
+      "commune": "Mignaloux-Beauvoir",
+      "latitude": 46.5488668,
+      "longitude": 0.4052495,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/14383930306"
     },
     {
       "osm_id": "way:1215821335",
