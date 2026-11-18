@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T07:42:40.721624+00:00",
+  "generated_at": "2026-11-18T06:55:25.554228+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2663,
+  "count": 2661,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -328,18 +328,6 @@
       "osm_url": "https://www.openstreetmap.org/node/25214678"
     },
     {
-      "osm_id": "node:10677620326",
-      "nom": "Esso",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 46.1257227,
-      "longitude": 1.0434756,
-      "horaires": "",
-      "osm_url": "https://www.openstreetmap.org/node/10677620326"
-    },
-    {
       "osm_id": "way:125558595",
       "nom": "Esso",
       "enseigne": "TotalEnergies",
@@ -350,18 +338,6 @@
       "longitude": 3.0462244,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/125558595"
-    },
-    {
-      "osm_id": "node:25209936",
-      "nom": "Esso",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 43.6623625,
-      "longitude": 5.4478985,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/25209936"
     },
     {
       "osm_id": "node:5598739624",
@@ -508,6 +484,18 @@
       "osm_url": "https://www.openstreetmap.org/node/1937280853"
     },
     {
+      "osm_id": "node:2018422960",
+      "nom": "KAI carburant",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 43.8128314,
+      "longitude": 1.3159707,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/2018422960"
+    },
+    {
       "osm_id": "way:64249260",
       "nom": "La Solane",
       "enseigne": "TotalEnergies",
@@ -566,6 +554,18 @@
       "longitude": 2.313688713157895,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/31964247"
+    },
+    {
+      "osm_id": "node:3694984199",
+      "nom": "Les Rebels",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 44.3852307,
+      "longitude": 3.1128558,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/3694984199"
     },
     {
       "osm_id": "node:499503480",
@@ -2414,6 +2414,18 @@
       "longitude": -1.7622146888888888,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/270770639"
+    },
+    {
+      "osm_id": "node:5576018506",
+      "nom": "Station 8",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 43.8422655,
+      "longitude": 1.8463844,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/5576018506"
     },
     {
       "osm_id": "node:5174956763",
@@ -4270,8 +4282,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 48.5319297,
-      "longitude": 0.5116682,
+      "latitude": 48.5318852,
+      "longitude": 0.5116647,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/1686999587"
     },
@@ -8692,18 +8704,6 @@
       "osm_url": "https://www.openstreetmap.org/way/625305321"
     },
     {
-      "osm_id": "way:749650114",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 49.1787565125,
-      "longitude": 6.0533488124999995,
-      "horaires": "",
-      "osm_url": "https://www.openstreetmap.org/way/749650114"
-    },
-    {
       "osm_id": "way:993079279",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -11176,6 +11176,18 @@
       "osm_url": "https://www.openstreetmap.org/way/1489535695"
     },
     {
+      "osm_id": "node:25209936",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 43.6623625,
+      "longitude": 5.4478985,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/25209936"
+    },
+    {
       "osm_id": "node:28381675",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -11330,18 +11342,6 @@
       "longitude": 7.5201815,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/1754968945"
-    },
-    {
-      "osm_id": "node:1770329811",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 43.2276189,
-      "longitude": 6.0698711,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/1770329811"
     },
     {
       "osm_id": "node:1824341149",
@@ -11630,18 +11630,6 @@
       "longitude": 5.5696773,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/177840397"
-    },
-    {
-      "osm_id": "way:498906817",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 43.85892634,
-      "longitude": 4.91634786,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/way/498906817"
     },
     {
       "osm_id": "way:643444124",
@@ -15508,18 +15496,6 @@
       "osm_url": "https://www.openstreetmap.org/node/3135247243"
     },
     {
-      "osm_id": "node:4859581224",
-      "nom": "Total Access",
-      "enseigne": "Total Access",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 44.9684043,
-      "longitude": 4.8856344,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/4859581224"
-    },
-    {
       "osm_id": "node:4872672647",
       "nom": "Total Access",
       "enseigne": "Total Access",
@@ -19216,6 +19192,18 @@
       "osm_url": "https://www.openstreetmap.org/node/2007003133"
     },
     {
+      "osm_id": "node:3877125713",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 47.0448815,
+      "longitude": 3.6425852,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/3877125713"
+    },
+    {
       "osm_id": "node:4529130717",
       "nom": "TotalEnergies",
       "enseigne": "TotalEnergies",
@@ -20414,6 +20402,18 @@
       "longitude": 2.4859923999999998,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/106884051"
+    },
+    {
+      "osm_id": "way:112250523",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 48.60186425,
+      "longitude": 2.56074075,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/way/112250523"
     },
     {
       "osm_id": "way:136138114",
@@ -27424,18 +27424,6 @@
       "osm_url": "https://www.openstreetmap.org/node/1182874877"
     },
     {
-      "osm_id": "node:25214622",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "Rue de la Libération, 50370",
-      "code_postal": "50370",
-      "commune": "",
-      "latitude": 48.7258669,
-      "longitude": -1.1664429,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/25214622"
-    },
-    {
       "osm_id": "way:209083021",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -30098,18 +30086,6 @@
       "longitude": 2.5149871,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/2825274729"
-    },
-    {
-      "osm_id": "node:2194263108",
-      "nom": "Relais Ozoir la Ferrière",
-      "enseigne": "TotalEnergies",
-      "adresse": "2, Avenue Édouard Gourdon, 77330",
-      "code_postal": "77330",
-      "commune": "",
-      "latitude": 48.7728731,
-      "longitude": 2.6766193,
-      "horaires": "",
-      "osm_url": "https://www.openstreetmap.org/node/2194263108"
     },
     {
       "osm_id": "way:112299164",
