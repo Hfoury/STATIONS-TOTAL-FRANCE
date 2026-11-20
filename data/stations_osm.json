@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T07:51:01.995433+00:00",
+  "generated_at": "2026-11-20T06:48:43.636318+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2661,
+  "count": 2660,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -2426,18 +2426,6 @@
       "longitude": 1.8463844,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/5576018506"
-    },
-    {
-      "osm_id": "node:5174956763",
-      "nom": "Station AVIA",
-      "enseigne": "TotalEnergies",
-      "adresse": "Boulevard du 8 Mai",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 45.7457135,
-      "longitude": 0.386132,
-      "horaires": "Sa 00:00-24:00; Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00",
-      "osm_url": "https://www.openstreetmap.org/node/5174956763"
     },
     {
       "osm_id": "node:7747031388",
@@ -17014,8 +17002,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 46.503614971428576,
-      "longitude": -1.7293768857142857,
+      "latitude": 46.503615,
+      "longitude": -1.7293768714285715,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/170379708"
     },
