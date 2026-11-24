@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:48:43.636318+00:00",
+  "generated_at": "2026-11-24T08:06:12.354761+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
   "count": 2660,
   "items": [
@@ -4514,6 +4514,18 @@
       "longitude": 0.18345794285714284,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/153279859"
+    },
+    {
+      "osm_id": "way:156094063",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 49.285405385714284,
+      "longitude": -0.10927730000000001,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/way/156094063"
     },
     {
       "osm_id": "way:156632089",
@@ -12262,8 +12274,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 45.6413926,
-      "longitude": 5.13644684,
+      "latitude": 45.6414104,
+      "longitude": 5.13646164,
       "horaires": "Mo-Fr 07:00-19:30; Sa 09:00-13:00",
       "osm_url": "https://www.openstreetmap.org/way/130587261"
     },
@@ -21766,8 +21778,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 43.6073899,
-      "longitude": 7.123986,
+      "latitude": 43.6073668,
+      "longitude": 7.1239894,
       "horaires": "",
       "osm_url": "https://www.openstreetmap.org/node/3258144476"
     },
@@ -22858,8 +22870,8 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 48.82290314285715,
-      "longitude": 2.4945554,
+      "latitude": 48.82290067142857,
+      "longitude": 2.4945468142857146,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/109530791"
     },
@@ -24686,18 +24698,6 @@
       "longitude": -0.3481785,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/25214707"
-    },
-    {
-      "osm_id": "way:156094063",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "106, Rue du Général de Gaulle, 14160, Dives-sur-Mer",
-      "code_postal": "14160",
-      "commune": "Dives-sur-Mer",
-      "latitude": 49.285405385714284,
-      "longitude": -0.10927730000000001,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/way/156094063"
     },
     {
       "osm_id": "node:8312384492",
