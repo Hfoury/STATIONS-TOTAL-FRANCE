@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T08:06:12.354761+00:00",
+  "generated_at": "2026-11-26T06:43:22.004821+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2660,
+  "count": 2661,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -27040,6 +27040,18 @@
       "osm_url": "https://www.openstreetmap.org/node/6036451218"
     },
     {
+      "osm_id": "node:1287951648",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "25, Rue du Pont, 44530, Saint-Gildas-des-Bois",
+      "code_postal": "44530",
+      "commune": "Saint-Gildas-des-Bois",
+      "latitude": 47.5134462,
+      "longitude": -2.0384253,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/1287951648"
+    },
+    {
       "osm_id": "node:25212782",
       "nom": "Relais Total de La Grassinière",
       "enseigne": "TotalEnergies",
@@ -27328,16 +27340,16 @@
       "osm_url": "https://www.openstreetmap.org/node/3585560999"
     },
     {
-      "osm_id": "way:39297469",
+      "osm_id": "node:14411562258",
       "nom": "Total Mâcon",
       "enseigne": "TotalEnergies",
       "adresse": "50000",
       "code_postal": "50000",
       "commune": "",
-      "latitude": 49.10232611428571,
-      "longitude": -1.115350242857143,
+      "latitude": 49.1023018,
+      "longitude": -1.1153103,
       "horaires": "Mo-Fr 06:30-21:00; Sa 07:30-20:30; Su 08:30-20:30",
-      "osm_url": "https://www.openstreetmap.org/way/39297469"
+      "osm_url": "https://www.openstreetmap.org/node/14411562258"
     },
     {
       "osm_id": "way:112096880",
