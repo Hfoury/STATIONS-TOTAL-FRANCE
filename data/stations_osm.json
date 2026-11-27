@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T06:43:22.004821+00:00",
+  "generated_at": "2026-11-27T07:44:47.541242+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2661,
+  "count": 2662,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -5674,7 +5674,7 @@
       "adresse": "",
       "code_postal": "",
       "commune": "",
-      "latitude": 47.1086035,
+      "latitude": 47.1085953,
       "longitude": 0.5832142,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/5645925416"
@@ -6820,18 +6820,6 @@
       "osm_url": "https://www.openstreetmap.org/node/7350440691"
     },
     {
-      "osm_id": "node:9595045273",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 49.2228942,
-      "longitude": 1.0629451,
-      "horaires": "",
-      "osm_url": "https://www.openstreetmap.org/node/9595045273"
-    },
-    {
       "osm_id": "node:10243327199",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -6880,6 +6868,18 @@
       "osm_url": "https://www.openstreetmap.org/node/12302173519"
     },
     {
+      "osm_id": "node:14420292889",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 49.4273301,
+      "longitude": 1.0929224,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/14420292889"
+    },
+    {
       "osm_id": "way:64470135",
       "nom": "Total",
       "enseigne": "TotalEnergies",
@@ -6890,18 +6890,6 @@
       "longitude": 1.1367014444444445,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/64470135"
-    },
-    {
-      "osm_id": "way:65037402",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "23",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 49.427312433333334,
-      "longitude": 1.0929442500000002,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/way/65037402"
     },
     {
       "osm_id": "way:178022738",
@@ -13346,6 +13334,18 @@
       "longitude": 1.0758656,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/10692000037"
+    },
+    {
+      "osm_id": "node:14420292886",
+      "nom": "Total Access",
+      "enseigne": "Total Access",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 49.4574718,
+      "longitude": 1.1084148,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/14420292886"
     },
     {
       "osm_id": "node:25214698",
@@ -22372,6 +22372,18 @@
       "osm_url": "https://www.openstreetmap.org/node/4995405350"
     },
     {
+      "osm_id": "node:4995405354",
+      "nom": "TotalEnergies",
+      "enseigne": "TotalEnergies",
+      "adresse": "",
+      "code_postal": "",
+      "commune": "",
+      "latitude": 45.3933651,
+      "longitude": 4.2706832,
+      "horaires": "24/7",
+      "osm_url": "https://www.openstreetmap.org/node/4995405354"
+    },
+    {
       "osm_id": "node:4995405364",
       "nom": "TotalEnergies",
       "enseigne": "TotalEnergies",
@@ -22694,18 +22706,6 @@
       "longitude": 4.8074792,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/way/972053481"
-    },
-    {
-      "osm_id": "way:1036319810",
-      "nom": "TotalEnergies",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 45.39337782,
-      "longitude": 4.27067228,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/way/1036319810"
     },
     {
       "osm_id": "way:1042252359",
@@ -25084,6 +25084,18 @@
       "osm_url": "https://www.openstreetmap.org/node/13769563375"
     },
     {
+      "osm_id": "node:14419818831",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "2, Rue de Pen Ar Choad, 22570, Bon Repos sur Blavet",
+      "code_postal": "22570",
+      "commune": "Bon Repos sur Blavet",
+      "latitude": 48.2388922,
+      "longitude": -3.1253321,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/14419818831"
+    },
+    {
       "osm_id": "way:68442122",
       "nom": "Station Total",
       "enseigne": "TotalEnergies",
@@ -25346,6 +25358,18 @@
       "longitude": 1.1697766,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/25212716"
+    },
+    {
+      "osm_id": "node:9595045273",
+      "nom": "Total",
+      "enseigne": "TotalEnergies",
+      "adresse": "7, Rue du Carbonnier, 27400, La Haye-Malherbe",
+      "code_postal": "27400",
+      "commune": "La Haye-Malherbe",
+      "latitude": 49.2228942,
+      "longitude": 1.0629451,
+      "horaires": "",
+      "osm_url": "https://www.openstreetmap.org/node/9595045273"
     },
     {
       "osm_id": "node:25214720",
@@ -29738,18 +29762,6 @@
       "longitude": 1.7492178,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/6614537657"
-    },
-    {
-      "osm_id": "way:64749447",
-      "nom": "Total Access",
-      "enseigne": "Total Access",
-      "adresse": "184, 76420, Bihorel",
-      "code_postal": "76420",
-      "commune": "Bihorel",
-      "latitude": 49.45747452,
-      "longitude": 1.10840006,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/way/64749447"
     },
     {
       "osm_id": "node:12214769450",
