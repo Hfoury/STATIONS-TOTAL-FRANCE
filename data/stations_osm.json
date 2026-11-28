@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T07:44:47.541242+00:00",
+  "generated_at": "2026-11-28T07:42:02.816256+00:00",
   "source": "OpenStreetMap / Geofabrik (extraits régionaux)",
-  "count": 2662,
+  "count": 2661,
   "items": [
     {
       "osm_id": "node:6524990180",
@@ -7370,18 +7370,6 @@
       "longitude": 2.5238749,
       "horaires": "24/7",
       "osm_url": "https://www.openstreetmap.org/node/4886398004"
-    },
-    {
-      "osm_id": "node:5000200656",
-      "nom": "Total",
-      "enseigne": "TotalEnergies",
-      "adresse": "",
-      "code_postal": "",
-      "commune": "",
-      "latitude": 48.7734731,
-      "longitude": 2.5173156,
-      "horaires": "24/7",
-      "osm_url": "https://www.openstreetmap.org/node/5000200656"
     },
     {
       "osm_id": "node:5001273497",
